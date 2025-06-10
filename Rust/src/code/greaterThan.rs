@@ -1,8 +1,0 @@
-fn greaterThan() {
-
-}
-
-
-fn main() {
-    
-}
